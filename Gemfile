@@ -7,6 +7,7 @@ gem 'rails', '~> 5.2.3'
 
 gem 'bootstrap'
 gem 'bootstrap_form'
+gem 'jquery-rails'
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'
